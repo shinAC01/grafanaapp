@@ -9,5 +9,5 @@ public class GrafanappApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GrafanappApplication.class, args);
 	}
-	//Commit de prueba rama Luis
+	//Commit de prueba rama
 }
